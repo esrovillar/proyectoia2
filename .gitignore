@@ -1,0 +1,7 @@
+# Secretos: nunca en git
+.env
+
+# Python
+venv/
+.venv/
+__pycache__/

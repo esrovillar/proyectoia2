@@ -1,0 +1,10 @@
+# El SDK de OpenAI: tu código importa sus excepciones
+openai>=1.100
+# Lee el archivo .env
+python-dotenv>=1.0
+# ReviewData y su validación
+pydantic>=2.7
+# Las piezas de LangChain: prompts, mensajes, cadenas, parsers
+langchain-core>=1.0
+# ChatOpenAI, el conector hacia LM Studio u OpenAI
+langchain-openai>=1.0
